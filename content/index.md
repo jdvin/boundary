@@ -14,4 +14,4 @@ The things you will find here fall into one of a few categories:
 
 # About me
 
-My main interests are machine learning and neuroscience. 
+My main interests are neuroscience and machine learning. 
